@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(rgb(218, 108, 5), rgb(224, 222, 77));
+    font-family: arial;
+  
+}
+
+
+.titre{
+    text-align: center;
+    color: white;
+    background-color: rgb(250, 75, 32);
+}
+.titre2{
+    background-color: orange;
+}
+table,td,th{
+    
+                border-collapse: collapse;
+                background-color: white;
+                margin: 20px;
+}
+.photoActeur {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+   }
+
+
+
+.tableauImage{
+    width: 50%;
+}
+.afficheFilm{
+    width: 100%;
+}
+.tableauPhotoActeur{
+    width: 80px;
+}
+
+.nomActeur{
+    display: block;
+    height: 10px;
+    font-family: Tahoma;
+}
+
+.nomPersonnage{
+    color: orange;
+    display: block;
+    font-style: italic;
+    font-family: Arial;
+}
+
+
+.lienAutreFilme{
+    font-style: italic;
+}
+
